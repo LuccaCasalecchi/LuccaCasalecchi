@@ -1,4 +1,4 @@
-# Hello There, I'm Lucca ! 
+# Hello There ! 
 
 ## Education 🎓
  
