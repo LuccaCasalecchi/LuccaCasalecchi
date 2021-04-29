@@ -2,7 +2,7 @@
 
 ## Education 🎓
  
- | Computer Science student at Universidade Federal do ABC
+ 🤖 Computer Science student at Universidade Federal do ABC
 
 ## Courses 📚
 
