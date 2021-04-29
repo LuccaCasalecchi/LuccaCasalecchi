@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello There, I'm Lucca ! 
 
-<!--
-**LuccaCasalecchi/LuccaCasalecchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education 🎓
+ 
+ | Computer Science student at Universidade Federal do ABC
 
-Here are some ideas to get you started:
+## Courses 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📕  SPTech Desenvolvimento Front End - Digital Innovation One
+📘  Praticas Avançadas em Projetos com React Js - Digital Innovation One
+📗  Curso VueJS 2 -Udemy
+📙  Python - FIAP
+
+## Favorite Technologies 💻
+🔵 React 
+🟢 VueJS
