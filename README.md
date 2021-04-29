@@ -12,5 +12,5 @@
 📙  Python - FIAP <br/>
 
 ## Favorite Technologies 💻
-🔵 React 
-🟢 VueJS
+🔵 React <br/>
+🟢 VueJS <br/>
