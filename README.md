@@ -6,10 +6,10 @@
 
 ## Courses 📚
 
-📕  SPTech Desenvolvimento Front End - Digital Innovation One
-📘  Praticas Avançadas em Projetos com React Js - Digital Innovation One
-📗  Curso VueJS 2 -Udemy
-📙  Python - FIAP
+📕  SPTech Desenvolvimento Front End - Digital Innovation One <br/>
+📘  Praticas Avançadas em Projetos com React Js - Digital Innovation One <br/>
+📗  Curso VueJS 2 -Udemy <br/>
+📙  Python - FIAP <br/>
 
 ## Favorite Technologies 💻
 🔵 React 
