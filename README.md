@@ -4,12 +4,11 @@
  
 📓 Computer Science student at Universidade Federal do ABC
 
-## Courses 📚
+## About me 📚
 
-📕  SPTech Desenvolvimento Front End - Digital Innovation One <br/>
-📘  Praticas Avançadas em Projetos com React Js - Digital Innovation One <br/>
-📗  Curso Jstack <br/>
-📙  Python - FIAP <br/>
+Fullstack developer with experience in creating and maintaining APIs using Node.js and Java. I own
+experience in project development using HTML5, CSS3, Javascript and Javascript Frameworks/Libraries
+like React.js. ~You may see some content of ethical hacking in here~
 
 ## Favorite Technologies 💻
 <div>
