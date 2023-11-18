@@ -6,9 +6,9 @@
 
 ## About me 📚
 
-Fullstack developer with experience in creating and maintaining APIs using Node.js and Java. I own
-experience in project development using HTML5, CSS3, Javascript and Javascript Frameworks/Libraries
-like React.js. ~You may see some content of ethical hacking in here~
+Fullstack developer with experience in creating and maintaining APIs using Node.js and Python. I own
+experience in project development using HTML5, CSS3, Typescript and Javascript Frameworks/Libraries
+like React.js and Node.js. Kinda passionate with leetcode too
 
 ## Favorite Technologies ⭐️
 <div>
